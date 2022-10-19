@@ -342,7 +342,7 @@ books		logs		stuff1		stuff1.tar.gz	web
 [No output]
 ----------
 
-
+stuff1 was used since stuff was a corrupted directory
 
 ==========
 25. Download and uncompress this file using curl and tar -xvf in your home directory:
